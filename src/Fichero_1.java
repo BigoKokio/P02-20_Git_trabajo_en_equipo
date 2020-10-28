@@ -34,6 +34,7 @@ public class Fichero_1 {
         } else {
             System.out.println("Los números no son positivos");
         }
+        //
     }
 }
 
